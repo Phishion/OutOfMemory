@@ -1,3 +1,5 @@
+*本内容为原Gitcafe搬迁时，迁移自@Superwyh的GitCafe仓库*
+
 本文纯属虚构，如有雷同算你倒霉。
 
 [我为什么要写这个东西](https://github.com/lktoken/OutOfMemory/blob/master/why.md)
